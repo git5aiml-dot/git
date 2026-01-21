@@ -1,2 +1,1 @@
-remote change
-Local change
+local commit
